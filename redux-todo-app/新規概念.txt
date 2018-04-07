@@ -1,0 +1,5 @@
+Reduxの重要概念
+
+①Store
+②Reducer
+③Action
