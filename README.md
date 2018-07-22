@@ -1,2 +1,2 @@
 # React_example
-・React、Reduxの学習用リポジトリ
+・React、Reduxの学習用リポジトリ２
